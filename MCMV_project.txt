@@ -1,0 +1,21 @@
+Murine Cytomegalovirus (MCMV) Mutants and Bacmid
+
+Herpesviruses are ubiquitous, opportunistic pathogens, characterized by the establishment of life-long infections in their natural hosts. As such, they have developed elegant strategies to infect, evade and persist in the face of host intrinsic, innate, and adaptive immunity. The long-term goal of our research is to identify, characterize, and interrogate the molecular mechanisms important for virus-host interactions. Much of our work focuses on the pathogenesis of betaherpeviruses, which includes the human pathogen Human Cytomegalovirus (HCMV). HCMV is a significant cause of morbidity and mortality in immunocompromised individuals and is the leading infectious cause of congenital birth defects in the United States.  Owing to the strict species specificity of betaherpesviruses, we utilize Murine Cytomegalovirus (MCMV), a powerful model system for HCMV pathogenesis, in our studies of CMV-host interactions. Our interests lie in understanding host innate immune defenses and the mechanisms by which MCMV, and a growing number of other pathogens including reovirus, influenza, and vaccinia virus, thwart these defenses. Combining techniques from genetics, molecular and cell biology, virology, and immunology, we aim to develop a better understanding of these molecular mechanisms, which in turn will allow us to exploit them to improve detection and treatment of viral diseases.
+
+Part of the Upton Laboratory work is to create MCMV mutants via recombination with the help of a MCMV virus cloned in a bacterial artificial chromosome (BAC). In order to test the effect of those mutants on virus-host interactions once the mutation is introduced in the viral genome, the BAC sequence needs to be removed from the viral genome which has historically be done through successive passages of the virus and natural removal of the BAC. Finally, we need to test that the introduced mutation did not disturbed the rest of the genome by creating a “rescue mutant” and going through the same process of BAC removal from the viral genome. This process of BAC removal can take months, which is why we are also in the process of creating a new BAC that could excise itself through a Cre-Lox system which would be immediate.
+
+Our reference MCMV genome is approximately 230kbp. We are currently in possession of 7 samples obtained from the Microbial Genome Sequencing Center (MiGS) using Illumina Sequencing. We have two fastaq files for each sample. We are also in possession of their Variant Calling Analysis which could allow to compare our results to theirs and teach us to actually understand those documents;). Another possibility would also to compare the MCMV strain we are working with (K181+) to another one often cited in literature (Smith).
+
+WT
+WT_611
+WT_611R
+RH_WT
+RH_WT_611
+RH_WT_611R
+BAC
+
+Our questions are:
+•	How similar or dissimilar the Mutants ‘genomes are from our reference one?
+•	How similar or dissimilar the Mutant Rescues ‘genomes are from their reference Mutant?
+•	Can we see a pattern of similarity/dissimilarity in all mutants/strains?
+
